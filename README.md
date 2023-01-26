@@ -39,7 +39,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   </div>
   <div class="column">
-    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Marxed&show_icons=true&theme=gotham" alt="Marxed" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Marxed&show_icons=true&theme=gotham" alt="Marxed" />
   </div>
 </div>
 
