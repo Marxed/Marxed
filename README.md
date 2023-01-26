@@ -36,7 +36,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <div class="row">
   <div class="column">
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="180" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="320" />
   </div>
   <div class="column">
    <img src="https://github-readme-stats.vercel.app/api?username=Marxed&show_icons=true&theme=gotham" alt="Marxed" />
