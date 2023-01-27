@@ -33,11 +33,13 @@ I'm also an open source enthusiast and maintainer. I've learned a lot from the o
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbrevis)](https://github.com/mattbrevis/github-readme-stats)
+
+
 <div class="row">
   <div class="column">
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="320" />
   </div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbrevis)](https://github.com/mattbrevis/github-readme-stats)
   <div class="column">
    <img src="https://github-readme-stats.vercel.app/api?username=Marxed&show_icons=true&theme=gotham" alt="Marxed" />
   </div>
