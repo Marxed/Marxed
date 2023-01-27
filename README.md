@@ -14,7 +14,6 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marxed)](https://github.com/marxed/github-readme-stats)
 <br />
 <br />
 
@@ -42,6 +41,10 @@ I'm also an open source enthusiast and maintainer. I've learned a lot from the o
    <img src="https://github-readme-stats.vercel.app/api?username=Marxed&show_icons=true&theme=gotham" alt="Marxed" />
   </div>
 </div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marxed)](https://github.com/marxed/github-readme-stats)
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
