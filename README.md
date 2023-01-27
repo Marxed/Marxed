@@ -16,11 +16,9 @@
 <br />
 <br />
 
-hi, i'm [Marxed](https://ddd.me/), a passionate full stack web developer and a computer software engineer from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces and functions. I take great care in the experience, development, and code quality of the things I build.
+hi, i'm [Marxed](https://ddd.me/), a passionate full stack web developer and a computer software engineer from Brazil. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces and functions and continuing to study and learn every day. I take great care with the experience, development and code quality of the things I build (I'm perfecting myself to always raise that level).
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
+I'm also an open source enthusiast and maintainer. I've learned a lot from the open source community and I love how collaboration and knowledge sharing happens through open source.
   
 **languages and tools:**  
 <br />
