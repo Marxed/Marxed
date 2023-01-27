@@ -38,12 +38,13 @@ I'm also an open source enthusiast and maintainer. I've learned a lot from the o
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="320" />
   </div>
   <div class="column">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marxed)](https://github.com/marxed/github-readme-stats)
+  </div>
+  <div class="column">
    <img src="https://github-readme-stats.vercel.app/api?username=Marxed&show_icons=true&theme=gotham" alt="Marxed" />
   </div>
 </div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marxed)](https://github.com/marxed/github-readme-stats)
 
 
 <!--START_SECTION:waka-->
